@@ -540,9 +540,12 @@ section h3.section-subheading {
     text-transform: none;
 }
 
-.timeline .timeline-body>p,
 .timeline .timeline-body>ul {
     margin-bottom: 0;
+}
+
+.timeline .timeline-body-left>ul {
+  text-align: left;
 }
 
 @media(min-width:768px) {
