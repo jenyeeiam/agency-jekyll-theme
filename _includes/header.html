@@ -42,16 +42,17 @@
 
     <!-- Header -->
     <header>
-        <div class="container">
-            <div class="intro-text">
-                <div class="intro-lead-in">Helping you live your</div>
-                <div class="intro-heading">dream vacation</div>
-                <a href="https://calendly.com/jenyee1022/free-30min-consult" target="_blank" class="page-scroll btn btn-xl">Free Consult</a>
+        <div class="overlay"></div>
+          <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+            <source src="img/hero.mp4" type="video/mp4">
+          </video>
+          <div class="container h-100">
+            <div class="d-flex h-100 text-center align-items-center">
+              <div class="intro-text">
+                  <div class="intro-lead-in">Helping you live your</div>
+                  <div class="intro-heading">dream vacation</div>
+                  <a href="https://calendly.com/jenyee1022/free-30min-consult" target="_blank" class="page-scroll btn btn-xl">Free Consult</a>
+              </div>
             </div>
-        </div>
+          </div>
     </header>
-<!--
-        {% for page in site.pages %}
-          {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
-        {% endfor %}
- -->
