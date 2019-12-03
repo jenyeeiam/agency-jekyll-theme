@@ -216,6 +216,11 @@ fieldset[disabled] .btn-xl.active {
     transition: all ease .35s;
 }
 
+.navbar-default .nav #highlight {
+  border: 1px solid #{{ site.data.template.color.primary }};
+  border-radius: 3px;
+}
+
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
     outline: 0;
