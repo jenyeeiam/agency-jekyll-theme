@@ -831,6 +831,12 @@ ul.social-buttons li a:active {
     box-shadow: none;
 }
 
+#subscriber {
+  width: 50%;
+  margin: 0 auto;
+  max-height: 80%;
+}
+
 .portfolio-modal .modal-content h2 {
     margin-bottom: 15px;
     font-size: 3em;

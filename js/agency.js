@@ -35,3 +35,9 @@ $('div.modal').on('show.bs.modal', function() {
 		}
 	}
 });
+
+$( document ).ready(function() {
+  setTimeout(function() {
+    $('#subscriber').modal('show')
+  }, 3000)
+});
