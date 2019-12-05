@@ -41,3 +41,7 @@ $( document ).ready(function() {
     $('#subscriber').modal('show')
   }, 3000)
 });
+
+$('#mc-embedded-subscribe').click(function() {
+  $('#subscriber').modal('hide')
+})
