@@ -39,9 +39,11 @@ $('div.modal').on('show.bs.modal', function() {
 $( document ).ready(function() {
   setTimeout(function() {
     $('#subscriber').modal('show')
-  }, 3000)
+  }, 20000)
 });
 
-$('#mc-embedded-subscribe').click(function() {
-  $('#subscriber').modal('hide')
+$('#mc-embedded-subscribe-form').submit(function(event) {
+  setTimeout(function() {
+    $('#subscriber').modal('hide')
+  }, 1500)
 })
