@@ -216,6 +216,11 @@ fieldset[disabled] .btn-xl.active {
     transition: all ease .35s;
 }
 
+.navbar-default .nav #highlight {
+  border: 1px solid #{{ site.data.template.color.primary }};
+  border-radius: 3px;
+}
+
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
     outline: 0;
@@ -824,6 +829,13 @@ ul.social-buttons li a:active {
     background-clip: border-box;
     -webkit-box-shadow: none;
     box-shadow: none;
+}
+
+#subscriber {
+  width: 50%;
+  margin: 0 auto;
+  max-height: 80%;
+
 }
 
 .portfolio-modal .modal-content h2 {
