@@ -12,25 +12,25 @@ thumbnail: img/thumbnail.jpg
 people:
 - name: Jen Yee
   pic: 1
-  position: Nerd
+  position: Travel Consultant
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
+    - title: instagram
+      url: https://www.instagram.com/insta_jenyee/
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/jen-yee-70677529/
+    - title: inbox
+      url: mailto:jennifer.yee@olympian.org
 
-- name: Harry
+- name: Hillary Nelson
   pic: 2
-  position: Lead Marketer
+  position: Lead Marketer and Travel Consultant
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
+    - title: instagram
+      url: https://www.instagram.com/hillarynicholenelson/
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/hillary-nelson-43a45916/
+    - title: inbox
+      url: mailto:hillary@tripsandships.com
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
