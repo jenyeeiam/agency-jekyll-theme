@@ -10,7 +10,7 @@ thumbnail: img/thumbnail.jpg
 
 # Team names, titles and social links
 people:
-- name: Jen Yee
+- name: Jen
   pic: 1
   position: Travel Consultant
   social:
@@ -21,7 +21,7 @@ people:
     - title: inbox
       url: mailto:jennifer.yee@olympian.org
 
-- name: Hillary Nelson
+- name: Hillary
   pic: 2
   position: Lead Marketer and Travel Consultant
   social:
