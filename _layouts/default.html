@@ -14,7 +14,9 @@
     {% include footer.html %}
     {% include modals.html %}
     {% include js.html %}
-
+    {% if site.google_analytics and jekyll.environment == 'production' %}
+      {% include analytics.html %}
+    {% endif %}
     <script>
       if (window.netlifyIdentity) {
         window.netlifyIdentity.on("init", user => {
