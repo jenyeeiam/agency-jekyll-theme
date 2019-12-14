@@ -3,12 +3,12 @@ title: Hotels vs Airbnb
 subtitle: What To Consider When Booking
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2019-12-05
 img: escape.png
 thumbnail: hotel-thumbnail.png
 author: Jen
 alt: image-alt
-project-date: April 2014
+project-date: December 5, 2019
 category: Web Development
 description: There are so many options when choosing accommodations for your trip. Here's our take on when to consider.
 ---
