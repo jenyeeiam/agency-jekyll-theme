@@ -7,7 +7,7 @@ date: 2019-12-12
 img: escape.png
 thumbnail: car-insurance-thumbnail.png
 author: Jen
-alt: image-alt
+alt: rental-car
 project-date: December 12, 2019
 category: Web Development
 description: We've all been there. The agent at the car rental agency asks you if you want to buy their insurance package. And after declining it, they make you feel guilty about doing so. We'll demystify what they're actually selling you.

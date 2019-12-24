@@ -7,7 +7,7 @@ date: 2019-11-28
 img: dreams.png
 thumbnail: todo-thumbnail.png
 author: Jen
-alt: image-alt
+alt: travel-checklist
 project-date: November 28, 2019
 category: Web Development
 description: Whether it's your first or your fiftieth trip there are some must haves and must do's. Here's our list.
