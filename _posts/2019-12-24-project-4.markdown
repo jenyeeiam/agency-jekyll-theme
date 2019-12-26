@@ -2,7 +2,7 @@
 title: Cash or Card
 subtitle: How much and when
 layout: default
-modal-id: 3
+modal-id: 4
 date: 2019-12-24
 img: escape.png
 thumbnail: credit-card.png
