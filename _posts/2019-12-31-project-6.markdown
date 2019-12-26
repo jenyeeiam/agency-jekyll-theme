@@ -1,0 +1,14 @@
+---
+title: Travel Insurance
+subtitle: Do I Need It?
+layout: default
+modal-id: 6
+date: 2019-12-25
+img: escape.png
+thumbnail: insurance-thumbnail.png
+author: Jen
+alt: insurance
+project-date: December 30, 2019
+category: Web Development
+description: I'm sick
+---
