@@ -1,6 +1,6 @@
 ---
-title: What the Rental Insurance Actually Means
-subtitle:
+title: Rental Car Insurance
+subtitle: Demystified
 layout: default
 modal-id: 3
 date: 2019-12-12

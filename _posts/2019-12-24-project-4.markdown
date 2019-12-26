@@ -1,5 +1,5 @@
 ---
-title: Cash or Card?
+title: Cash or Card
 subtitle: How much and when
 layout: default
 modal-id: 4
