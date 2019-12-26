@@ -3,7 +3,7 @@ title: Travel Insurance
 subtitle: Do I Need It?
 layout: default
 modal-id: 5
-date: 2019-12-25
+date: 2019-12-26
 img: escape.png
 thumbnail: insurance-thumbnail.png
 author: Jen
