@@ -5,7 +5,7 @@ layout: default
 modal-id: 4
 date: 2019-12-24
 img: escape.png
-thumbnail: credit-card.png
+thumbnail: credit-card-thumbnail.png
 author: Jen
 alt: credit-card
 project-date: December 24, 2019
